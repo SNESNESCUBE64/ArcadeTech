@@ -32,7 +32,6 @@
 - [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
 - [Syracuse Semiconductors](https://syracusesemiconductors.com/) - Monitor Cap kits and Flybacks from the Source
 - [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts and Mod Kits
-- [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
 - [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
 - [Vector Vault Repair](https://www.vectorvaultrepair.com/) - Sega G80 Vector Only
 - [Victory Glass](https://victoryglass.com/) - Primarlily Jukebox/EM but Arcade stuff too.
