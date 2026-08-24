@@ -166,3 +166,9 @@
 | Warp Warp                   | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
 | Zaxxon                      | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
 | Zeke's Peak                 | [Various Freeplay Hacks (DogP)](https://forums.arcade-museum.com/threads/various-free-play-hacks.147269/post-3694048)                                             |                                             |
+
+## Test ROMs
+| **Game**                    | **Link**                                                                                                                                                          | **Notes**                                   |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Donkey Kong                  | [TKG Test ROM](https://github.com/SNESNESCUBE64/TKG-Test-ROM/tree/main)                                                                                        |                                             |
+| Space Invaders              | [Outerworld Arcade SI test ROM](https://www.outerworldarcade.com/space_invaders/space_invaders_test_rom.html)                                                                                                |                                             |
