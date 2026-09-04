@@ -170,5 +170,6 @@
 ## Test ROMs
 | **Game**                    | **Link**                                                                                                                                                          | **Notes**                                   |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| Donkey Kong                  | [TKG Test ROM](https://github.com/SNESNESCUBE64/TKG-Test-ROM/tree/main)                                                                                        |                                             |
+| Donkey Kong                  | [SNESNESCUBE64's Test ROMs](https://github.com/SNESNESCUBE64/Arcade-Test-ROMs)                                                                                 |                                             |
+| Donkey Kong Jr               | [SNESNESCUBE64's Test ROMs](https://github.com/SNESNESCUBE64/Arcade-Test-ROMs)                                                                                 |                                             |
 | Space Invaders              | [Outerworld Arcade SI test ROM](https://www.outerworldarcade.com/space_invaders/space_invaders_test_rom.html)                                                                                                |                                             |
